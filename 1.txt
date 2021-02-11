@@ -1,0 +1,24 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables:
+Las variables son un sistema de guardado de información, de almacenamiento.
+Me permiten guardar algo en un lugar donde lo pueda recuperar/usar cuando lo precise.
+
+Strings:
+Una string es uno de los tipos de datos más básicos de Javascript, esto es, un atributo que se puede guardar en las variables.
+En este caso, son palabras o un hilo de caracteres que va siempre delimitado por comillas.
+
+Funciones (argumentos, return):
+Las funciones son una herramienta que sirve para agrupar códigos y guardarlos con el fin de no repetir y escribir lo mismo cada vez que queremos utilizarlos.
+Además, nos sirven para calcular, cambiar y/o hacer tareas con las variables.
+Las funciones estan compuestas por uno o mas argumentos (variables que agregamos que vamos a poder utilizat dentro de nuestra funcion y van a tomar un valor cuando la invoque)
+y el codigo a ejecutar. 
+Para que la función nos devuelva algo (resultado,mensaje,etc.), utilizamos la declaración return pudiendo acceder a lo que devuelve la función, cosa que no lograríamos con la declaración console.lograríamos
+
+Declaraciones if:
+Las declaraciones if, se utilizan como control de flujo, esto es, una forma de verificación que permite agregar lógica al códigos
+mediante preguntas que irán ejecutando códigos según ciertas condiciones.
+
+Valores booleanos (true, false):
+Los valores booleanos son un tipo de dato que usamos para verificar/significar que algo es verdadero o falso.
