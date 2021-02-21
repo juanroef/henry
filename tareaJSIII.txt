@@ -1,0 +1,14 @@
+En un archivo de texto separado que debes crear, 
+escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+for: Esta es una expresion que tiene incorporada Javascript que nos permite repetir algo muchas veces
+    sin tener que escribirlo.
+
+&&: esta es una herramienta que nos permite comparar dos variables, 
+    solo nos devolvera verdadero si las dos variables son verdaderas
+
+||: esta otra herramienta nos permite comparar dos variables,
+    nos devolvera verdadero si alguna de las dos es verdaderas
+
+!: este operador nos devolvera lo contrario de la expresion
